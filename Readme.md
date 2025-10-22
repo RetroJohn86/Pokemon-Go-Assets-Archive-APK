@@ -3,14 +3,14 @@
 
 **+** __**Repository Info**__
 
-As from the September 2025, the Download Size for this Repo is : **14.7 MB** ( Please Note The Size Can Change At Anytime Due Too Updates. )
+As from the September 2025, the Download Size for this Repo is : **?** ( Please Note The Size Can Change At Anytime Due Too Updates. )
 **This Repository is of all thinks found and mined. This repo is organized based on category and is a combination of downloaded/remote assets and assets found inside the APK and Sources.**
 
 
 **+** __**Files and Folder Structure.**__
 
 **Images** **:**
-All images in this repo are found and mined and are located are organized based on category e.g. App Icons, Emoji, Facebook, Google, Others and More.
+All images in this repo are found and mined and are located are organized based on category e.g. Apple, Emoji, Facebook, Google, Icons, Logo, Watermark, Others and More.
 
 __**Fonts**__ **:** 
 All files that are found and mined in the Font Folder.
